@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584341596 source:d:\apex\binarytree\main.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+	<conio.h>
+
